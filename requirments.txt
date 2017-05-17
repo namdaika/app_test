@@ -1,0 +1,2 @@
+wxpython
+requests-futures==0.9.7
